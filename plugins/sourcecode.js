@@ -20,13 +20,13 @@ https://github.com/ilmanhdyt/ShiraoriBOT-Md`
            hydratedButtons: [{
              urlButton: {
                displayText: '💠 Source Code',
-               url: 'https://github.com/ilmanhdyt/ShiraoriBOT-Md'
+               url: 'Chat wa.me/6288270863279'
              }
 
            },
                {
              quickReplyButton: {
-               displayText: 'Ok Bang',
+               displayText: 'Ok Dek',
                id: '.menu',
              }
 
